@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ramadhan</string>
+    <string name="settings_button_ok"></string>
+    <string name="settings_button_cancel"></string>
+</resources>
